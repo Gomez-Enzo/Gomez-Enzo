@@ -21,7 +21,6 @@ Aplicación en desarrollo con Flutter y Dart utilizando arquitectura limpia. Inc
 
 ### 📫 Contacto
 - **Email:** enzogomez1128@gmail.com
-- **GitHub:** [Gomez-Enzo](https://github.com/Gomez-Enzo)
-- **LinkedIn:** [Enzo Gomez](https://www.linkedin.com/EnzoGomez)
+- **LinkedIn:** [Enzo Gomez](https://www.linkedin.com/in/enzo-gomez-327932236/)
 
 🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones!
