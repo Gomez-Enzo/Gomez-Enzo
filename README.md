@@ -1,26 +1,46 @@
 # 👋 ¡Hola! Soy Enzo Gómez
 
 ### 🎯 Sobre mí
-Soy estudiante de Ingeniería Electrónica en la Universidad Tecnológica Nacional FRC y técnico en electrónica. Me apasiona el desarrollo de software, la programación embebida y la electrónica digital. Tengo experiencia en diversas tecnologías y lenguajes de programación, desde C y Verilog hasta Flutter y Dart.
+
+Soy estudiante avanzado de Ingeniería Electrónica en la UTN Facultad Regional Córdoba y técnico en electrónica. Me interesa el desarrollo de hardware, sistemas embebidos y la integración entre electrónica y software.
+
+He participado en proyectos interdisciplinarios de sistemas aeroespaciales, CubeSat y diseño de circuitos analógicos, combinando desarrollo técnico con organización, planificación y gestión de equipos.
 
 ### 🛠️ Habilidades y Tecnologías
-- **Lenguajes de Programación:** C, C++, Ensamblador, Verilog, SystemVerilog, JavaScript, Flutter, Dart.
-- **Herramientas y Software:** Git, Visual Studio Code, Postman, Proteus, Multisim, LabView, LTSpice, Quartus, Xilinx.
-- **Sistemas Operativos:** Windows, Linux.
 
-### 💼 Experiencia
-- **Flutter Developer Intern en WeAppear** (Sep 2022 – Nov 2022)  
-  Desarrollo de una aplicación de control de tiempo para home office con Flutter, enfocándome en diseño de UI.
+* **Programación:** C, C++, Python, JavaScript, Verilog, SystemVerilog
+* **Embebidos:** ESP32, Raspberry Pi, sensores, comunicaciones y adquisición de datos
+* **Electrónica:** Diseño de hardware, circuitos analógicos y digitales, PCB
+* **Diseño analógico:** Xschem, Magic, LTspice, ngspice
+* **Herramientas:** Git, Visual Studio Code, PlatformIO, KiCad
+* **Otros:** Linux, Windows
 
-### 📌 Proyectos Destacados
-#### 🔹 Control de Luces (Trabajo Final - Técnicas Digitales 2)
-Proyecto desarrollado en equipo donde se controlan LEDs, ADC y pulsadores con una Raspberry Pi. Implementado en C, con manejo de hilos y comunicación UART.
+### 🚀 Proyectos Destacados
 
-#### 🔹 Cinemapedia (Aplicación de Películas)
-Aplicación en desarrollo con Flutter y Dart utilizando arquitectura limpia. Incorpora tecnologías como Riverpod, Dio y TheMovieDB API.
+#### 🔹 CORX — Sistemas Aeroespaciales
+
+Participación en el desarrollo de sistemas para cohetería experimental, incluyendo hardware embebido, electrónica de vuelo y Ground Support Equipment (GSE).
+
+#### 🔹 Computadora de Vuelo — CORX-1
+
+Desarrollo de una computadora de vuelo basada en ESP32, integrando sensores, almacenamiento de datos, GPS, telemetría LoRa y lógica de detección de eventos de vuelo.
+
+#### 🔹 CubeSat UTN
+
+Participación en la competencia CubeSat entre Regionales, con responsabilidades en la organización y gestión del proyecto y en el desarrollo del hardware del sistema. El equipo obtuvo el **3.er puesto a nivel nacional**.
+
+#### 🔹 LeetSpice
+
+Participación en el desarrollo de una plataforma educativa para el aprendizaje y evaluación de diseño de circuitos analógicos, trabajando en la definición de funcionalidades, desafíos, pruebas y coordinación del desarrollo.
+
+### 🔬 Formación y experiencia actual
+
+**Fundación Fulgor — Diseño Analógico**
+Becario en el área de diseño de circuitos analógicos, profundizando en diseño CMOS y herramientas de diseño electrónico open-source.
 
 ### 📫 Contacto
-- **Email:** enzogomez1128@gmail.com
-- **LinkedIn:** [Enzo Gomez](https://www.linkedin.com/in/enzo-gomez-327932236/)
 
-🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones!
+* **Email:** [enzogomez1128@gmail.com](mailto:enzogomez1128@gmail.com)
+* **LinkedIn:** [Enzo Gomez](https://www.linkedin.com/in/enzo-gomez-327932236/)
+
+🚀 Siempre abierto a nuevos desafíos, proyectos y oportunidades de colaboración.
